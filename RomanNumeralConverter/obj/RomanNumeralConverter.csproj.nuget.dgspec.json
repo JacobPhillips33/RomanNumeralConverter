@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jake\\Desktop\\Repos\\RomanNumeralConverter\\RomanNumeralConverter\\RomanNumeralConverter.csproj": {}
+    "C:\\Users\\Jake\\Desktop\\Repos\\006. RomanNumeralConverter\\RomanNumeralConverter\\RomanNumeralConverter.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jake\\Desktop\\Repos\\RomanNumeralConverter\\RomanNumeralConverter\\RomanNumeralConverter.csproj": {
+    "C:\\Users\\Jake\\Desktop\\Repos\\006. RomanNumeralConverter\\RomanNumeralConverter\\RomanNumeralConverter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jake\\Desktop\\Repos\\RomanNumeralConverter\\RomanNumeralConverter\\RomanNumeralConverter.csproj",
+        "projectUniqueName": "C:\\Users\\Jake\\Desktop\\Repos\\006. RomanNumeralConverter\\RomanNumeralConverter\\RomanNumeralConverter.csproj",
         "projectName": "RomanNumeralConverter",
-        "projectPath": "C:\\Users\\Jake\\Desktop\\Repos\\RomanNumeralConverter\\RomanNumeralConverter\\RomanNumeralConverter.csproj",
+        "projectPath": "C:\\Users\\Jake\\Desktop\\Repos\\006. RomanNumeralConverter\\RomanNumeralConverter\\RomanNumeralConverter.csproj",
         "packagesPath": "C:\\Users\\Jake\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jake\\Desktop\\Repos\\RomanNumeralConverter\\RomanNumeralConverter\\obj\\",
+        "outputPath": "C:\\Users\\Jake\\Desktop\\Repos\\006. RomanNumeralConverter\\RomanNumeralConverter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jake\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

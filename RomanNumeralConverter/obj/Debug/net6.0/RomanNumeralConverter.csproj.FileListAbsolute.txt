@@ -13,3 +13,18 @@ C:\Users\Jake\Desktop\Repos\RomanNumeralConverter\RomanNumeralConverter\obj\Debu
 C:\Users\Jake\Desktop\Repos\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\net6.0\RomanNumeralConverter.pdb
 C:\Users\Jake\Desktop\Repos\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\net6.0\RomanNumeralConverter.genruntimeconfig.cache
 C:\Users\Jake\Desktop\Repos\RomanNumeralConverter\RomanNumeralConverter\obj\Debug\net6.0\ref\RomanNumeralConverter.dll
+C:\Users\Jake\Desktop\Repos\006. RomanNumeralConverter\RomanNumeralConverter\bin\Debug\net6.0\RomanNumeralConverter.exe
+C:\Users\Jake\Desktop\Repos\006. RomanNumeralConverter\RomanNumeralConverter\bin\Debug\net6.0\RomanNumeralConverter.deps.json
+C:\Users\Jake\Desktop\Repos\006. RomanNumeralConverter\RomanNumeralConverter\bin\Debug\net6.0\RomanNumeralConverter.runtimeconfig.json
+C:\Users\Jake\Desktop\Repos\006. RomanNumeralConverter\RomanNumeralConverter\bin\Debug\net6.0\RomanNumeralConverter.dll
+C:\Users\Jake\Desktop\Repos\006. RomanNumeralConverter\RomanNumeralConverter\bin\Debug\net6.0\RomanNumeralConverter.pdb
+C:\Users\Jake\Desktop\Repos\006. RomanNumeralConverter\RomanNumeralConverter\obj\Debug\net6.0\RomanNumeralConverter.csproj.AssemblyReference.cache
+C:\Users\Jake\Desktop\Repos\006. RomanNumeralConverter\RomanNumeralConverter\obj\Debug\net6.0\RomanNumeralConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jake\Desktop\Repos\006. RomanNumeralConverter\RomanNumeralConverter\obj\Debug\net6.0\RomanNumeralConverter.AssemblyInfoInputs.cache
+C:\Users\Jake\Desktop\Repos\006. RomanNumeralConverter\RomanNumeralConverter\obj\Debug\net6.0\RomanNumeralConverter.AssemblyInfo.cs
+C:\Users\Jake\Desktop\Repos\006. RomanNumeralConverter\RomanNumeralConverter\obj\Debug\net6.0\RomanNumeralConverter.csproj.CoreCompileInputs.cache
+C:\Users\Jake\Desktop\Repos\006. RomanNumeralConverter\RomanNumeralConverter\obj\Debug\net6.0\RomanNumeralConverter.dll
+C:\Users\Jake\Desktop\Repos\006. RomanNumeralConverter\RomanNumeralConverter\obj\Debug\net6.0\refint\RomanNumeralConverter.dll
+C:\Users\Jake\Desktop\Repos\006. RomanNumeralConverter\RomanNumeralConverter\obj\Debug\net6.0\RomanNumeralConverter.pdb
+C:\Users\Jake\Desktop\Repos\006. RomanNumeralConverter\RomanNumeralConverter\obj\Debug\net6.0\RomanNumeralConverter.genruntimeconfig.cache
+C:\Users\Jake\Desktop\Repos\006. RomanNumeralConverter\RomanNumeralConverter\obj\Debug\net6.0\ref\RomanNumeralConverter.dll

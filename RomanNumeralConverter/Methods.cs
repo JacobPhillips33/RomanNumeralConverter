@@ -92,7 +92,6 @@ namespace RomanNumeralConverter
             var nineCheckI = romanNumeral.IndexOf('I');
             int num1 = (nineCheckX > nineCheckI && nineCheckI != -1) ? 9 : 0;
 
-
             if (num1 != 9)
             {
                 var num1Switch = String.Join("", romanNumeral.Where(x => x == 'I' || x == 'V'));
